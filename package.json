@@ -1,0 +1,14 @@
+{
+  "name": "component-preloader",
+  "description": "Preload images",
+  "version": "0.0.1",
+  "keywords": [
+    "preload",
+    "preloader",
+    "image"
+  ],
+  "dependencies": {
+    "visionmedia-batch": "git://github.com/npmcomponent/visionmedia-batch.git",
+    "component-inherit": "git://github.com/npmcomponent/component-inherit.git"
+  }
+}

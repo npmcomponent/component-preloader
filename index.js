@@ -3,8 +3,8 @@
  * Module dependencies.
  */
 
-var Batch = require('batch')
-  , inherit = require('inherit');
+var Batch = require('visionmedia-batch')
+  , inherit = require('component-inherit');
 
 /**
  * Expose `Preloader`.
